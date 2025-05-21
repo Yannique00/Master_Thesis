@@ -1,0 +1,25 @@
+
+=== Results for 20 topics with 5 words (ngram_range=(2, 3)) ===
+Coherence Score: 0.7473
+
+Topics and their key words:
+Topic 0: basisdosering diabete lunch, basisdosering diabete, diabete lunch, lunch slapen basisdosering, slapen basisdosering diabete, slapen basisdosering, diabete lunch slapen, lunch slapen, lunch basisdosering diabete, lunch basisdosering
+Topic 1: graad ii, ductaal lobulair carcinoom, invasief ductaal lobulair, lobulair carcinoom, invasief ductaal, ductaal lobulair, hormonaal therapie, hemolytisch anemie, ii graad, ii pr
+Topic 2: progressie cll, opname exacerbatie copd, opname exacerbatie, exacerbatie copd, volgen venetoclax, copd gold, cll waarvoor, chronisch lymfatisch, chronisch lymfatisch leukemie, lymfatisch leukemie
+Topic 3: diabetisch nefropathie, zegelringcarcinoom sigmoid, oogheelkunen diabetisch retinopathie, start dialyse overvulling, hypertensie nierfunctieverlie, oogheelkunen diabetisch, acute start, acute start dialyse, overvulling klacht, verslechtering nierfunctie predialyse
+Topic 4: indicatie aanvraag, asa klasse, antibiotisch profylaxe, profylaxe nvt, antibiotisch profylaxe nvt, cumarinederivaat nvt, aanvrager mdlarts, poliklinisch mdlverpleegkundig, let poliklinisch, let poliklinisch mdlverpleegkundig
+Topic 5: diabete vpk, diabete mellitus, oraal stuk, diabete mellitus type, mellitus type, vervolgconsult diabete, vervolgconsult diabete vpk, insulin schema, int knoppen, type ii
+Topic 6: algeheel malaise, int knoppen, lichamelijk onderzoek, atriumfibrilleren diabete mellitus, atriumfibrilleren diabete, strumectomie paroxismaal, strumectomie paroxismaal atriumfibrilleren, chemotherapie volgen lobectomie, volgen lobectomie, chemotherapie volgen
+Topic 7: beloop verpleegkundig, aantal controle, int inge, internist controle, mdlarts aantal, controle int, controle int inge, krijgen remicade, tp controle, mdlarts aantal controle
+Topic 8: acute pancreatitis, chronisch pancreatitis, knoppen consult, pancreatitis alcoholabusus, visite bmd, vg dec cordis, vg dec, dec cordis, whipple operatie, chronisch pancreatitis alcoholabusus
+Topic 9: gist ulcus, ulcus par descenden, ulcus par, gist ulcus par, bloedverlie gebruik clopidogrel, gebruik clopidogrel cva, descenden duodeni waaruit, duodeni waaruit, duodeni waaruit bloedverlie, par descenden duodeni
+Topic 10: oraal stuk, tablet oraal, tablet oraal stuk, kenmerk patientid, kenmerk patientid betreffen, patientid betreffen, geb birthdate, geacht collega, initials geb birthdate, initials geb
+Topic 11: medisch dossier, naam functie, dossier vk sputovamo, dossier vk, medisch dossier vk, vk sputovamo leeftijd, vk sputovamo, registratie seh, dienstdoend specialist, dienstdoend specialist objectgegeven
+Topic 12: triage nee, toediening medicatie, nee triage nee, nee triage, triage nee triage, verslaglegging verantwoordelijk, verantwoordelijk verpleegkundig, verslaglegging verantwoordelijk verpleegkundig, verantwoordelijk verpleegkundig objectgegeven, verpleegkundig objectgegeven
+Topic 13: alcoholisch levercirrose, vg dmii alcoholabusus, dmii alcoholabusus, vg dmii, alcoholisch levercirrose vg, levercirrose vg, levercirrose vg dmii, bloeden cardiavarix waarvoor, cardiavarix waarvoor, bloeden cardiavarix
+Topic 14: knoppen consult, knoppen consult knoppen, consult knoppen, vervolgconsult type registratie, vervolgconsult type, type registratie, consult knoppen consult, type registratie uitbreiden, registratie uitbreiden, uitbreiden verwijzer
+Topic 15: rectaal bloedverlie, aanvullen onderzoek, overig actie, hb controle, ferriprief anemie, lichamelijk onderzoek, bloedverlie anum, hd stabiel, beloop vpk, hemoglobine mmoll
+
+Topic sizes: [135, 103, 109, 108, 237, 441, 313, 785, 106, 178, 803, 235, 259, 116, 173, 948]
+
+==================================================

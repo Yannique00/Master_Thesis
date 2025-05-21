@@ -1,0 +1,123 @@
+
+=== Results for 20 topics with 5 words, (ngram_range=(2, 3)) and min_topic_size:30 ===
+Coherence Score: 0.7345
+
+Topics and their key words:
+Topic 0: oraal stuk, tablet oraal, tablet oraal stuk, aanvullen onderzoek, lichamelijk onderzoek, rectaal bloedverlie, streetnaam zip, mcv fl, geacht collega, reden komst
+Topic 1: progressie cll, opname exacerbatie copd, opname exacerbatie, exacerbatie copd, copd gold, volgen venetoclax, lymfatisch leukemie, chronisch lymfatisch, chronisch lymfatisch leukemie, cll waarvoor
+Topic 2: int inge, internist controle, novomix ophogen, ophogen beloop, novomix ophogen beloop, controle int, tp controle, internist tp, controle int inge, zakken novomix
+Topic 3: tevoren lab, diana lab, afronding onderzoek, lab diana, rontg echo, lab urine, tevoren lab oz, onderzoek rontg, lab formulier, afronding onderzoek rontg
+Topic 4: diabete lunch, diabete lunch slapen, lunch slapen, basisdosering diabete lunch, basisdosering diabete, lunch slapen basisdosering, slapen basisdosering diabete, slapen basisdosering, lunch slapen diabete, slapen diabete
+Topic 5: diabete vpk, vervolgconsult diabete vpk, vervolgconsult diabete, insulin schema, doel verbeteren, verbeteren ondersteuning realiser, verbeteren ondersteuning, realiser regievoeringempowerment, ondersteuning realiser regievoeringempowerment, doel verbeteren ondersteuning
+Topic 6: uitvoeren controle, controle decursus, decursus podo, decursus podo decursus, podo decursus, controle decursus podo, controle controle, decursus uitvoeren, podo decursus uitvoeren, uitvoeren controle decursus
+Topic 7: aantal controle, controle aantal, aantal controle aantal, mdlarts aantal, controle aantal controle, mdlarts aantal controle, aantal controle venofer, controle venofer, aantal controle mdlarts, controle mdlarts aantal
+Topic 8: graad ii, ductaal lobulair carcinoom, lobulair carcinoom, ductaal lobulair, invasief ductaal lobulair, invasief ductaal, hormonaal therapie, hemolytisch anemie, pr negatief, ii graad
+Topic 9: tablet oraal, starten metformine, pneumonie goed, afwijking echo abdomen, parainfectieus hypertensie, start amlodipine, goed respons, leverbiochemiestoornis afwijking, opname atypisch, recent opname atypisch
+Topic 10: toediening soort infuus, vocht toediening, vocht toediening soort, toediening soort, soort infuus, soort infuus nacl, infuus nacl, sepsis arts, infuus nacl vocht, nacl vocht
+Topic 11: arteria iliaca, arteria iliaca externa, iliaca externa, chronisch nierinsufficiëntie, instent stenose arteria, instent stenose, stenose arteria iliaca, stenose arteria, renaal anemie, nierinsufficiëntie ckd stadium
+Topic 12: nierschade cystenier, nierschade cystenier egfr, chronisch nierschade cystenier, cystenier egfr, chronisch nierschade, knieprothees link, totaal knieprothees link, cardiaal verklaring, totaal knieprothees, dun darm
+Topic 13: beloop verpleegkundig, verpleegkundig verslaglegging seh, verslaglegging seh, hugo raes beloop, informatie echo duplex, controle beloop verpleegkundig, dooren beloop, pontzenmeinderts beloop, pontzenmeinderts beloop verpleegkundig, beloop verpleegkundig beloop
+Topic 14: phaco lens impl, lens impl, extracaps phaco lens, extracaps phaco, phaco lens, oog cataractoperatie extracaps, oog cataractoperatie, cataractoperatie extracaps phaco, cataractoperatie extracaps, eosinofiel enteritis
+Topic 15: secundair hyperparathyreoïdie, intern geneeskun, opname intern geneeskun, opname intern, niertransplantatie stabiel, status niertransplantatie stabiel, status niertransplantatie, hypertensie onvoldoende, aorta insufficiëntie, angineuze klacht
+Topic 16: podo decursus, decursus podo decursus, decursus podo, wonddebridement uitvoeren, wonddebridement uitvoeren controle, zijde mtp, decursus wonddebridement, podo decursus wonddebridement, decursus wonddebridement uitvoeren, uitvoeren controle
+Topic 17: diëtetiek evaluatie, consult diëtetiek evaluatie, consult diëtetiek, diëtetiek evaluatie jaarcontrole, evaluatie jaarcontrole, nav voedingsanamnees eetdagboek, bevinding nav voedingsanamnees, voedingsanamnees eetdagboek, verloop evaluatiecriteria, nav voedingsanamnees
+Topic 18: bloed prikken controle, bijgevoegd bloeduitslag, onderzoek bloed prikken, prikken controle, medicatie meenemen, voren dagbehandeling, routenummer werkdag voren, voren dagbehandeling tijdstip, dagbehandeling tijdstip waarop, horen zeggen
+
+Topic sizes: [4951, 357, 214, 206, 188, 134, 132, 104, 103, 102, 86, 70, 66, 57, 51, 47, 43, 33, 31]
+
+==================================================
+
+=== Results for 20 topics with 5 words, (ngram_range=(2, 3)) and min_topic_size:50 ===
+Coherence Score: 0.6687
+
+Topics and their key words:
+Topic 0: oraal stuk, tablet oraal, tablet oraal stuk, aanvullen onderzoek, lichamelijk onderzoek, streetnaam zip, geacht collega, rectaal bloedverlie, mcv fl, kenmerk patientid
+Topic 1: diabete mellitus, mellitus type, diabete mellitus type, diabete vpk, oraal stuk, diabetisch retinopathie, hypertensie hyperlipidemie, diabetisch nefropathie, diabetisch voet, vervolgconsult diabete
+Topic 2: controle controle, controle beloop, beloop uitvoeren, beloop uitvoeren controle, uitvoeren controle beloop, controle controle controle, tp controle, controle beloop uitvoeren, uitvoeren controle, afrondig onderzoeken
+Topic 3: tevoren lab, diana lab, afronding onderzoek, lab diana, rontg echo, lab urine, lab formulier, onderzoek rontg, afronding onderzoek rontg, echo toelichting
+Topic 4: diabete lunch, diabete lunch slapen, lunch slapen, basisdosering diabete lunch, basisdosering diabete, slapen basisdosering diabete, lunch slapen basisdosering, slapen basisdosering, lunch slapen diabete, slapen diabete
+Topic 5: arteria iliaca, thoracaal pijnklacht, arteria iliaca externa, iliaca externa, chronisch nierinsufficiëntie, instent stenose arteria, instent stenose, stenose arteria iliaca, stenose arteria, renaal anemie
+Topic 6: matig lvf, heup operatie jan, operatie jan, heup operatie, intake onbekend duur, cag subtotaal stenose, cag subtotaal, subtotaal stenose, pectoris cag subtotaal, verminderde intake onbekend
+Topic 7: progressie cll, opname exacerbatie, opname exacerbatie copd, exacerbatie copd, volgen venetoclax, copd gold, cll waarvoor, chronisch lymfatisch leukemie, chronisch lymfatisch, lymfatisch leukemie
+Topic 8: nefrotisch syndroom, septisch artritis, aanvullen onderzoek, decompensatio cordis, asbestose permanent opname, permanent opname, permanent opname verwardheidduizeligheid, urologie voorstel, prednison verhogen analyse, urologie voorstel blaasbiopen
+Topic 9: graad ii, ductaal lobulair carcinoom, lobulair carcinoom, invasief ductaal, ductaal lobulair, invasief ductaal lobulair, hormonaal therapie, hemolytisch anemie, graad ii pr, ii graad
+Topic 10: decursus podo decursus, podo decursus, decursus podo, controle decursus podo, uitvoeren controle, controle decursus, uitvoeren controle decursus, decursus uitvoeren, podo decursus uitvoeren, decursus uitvoeren controle
+Topic 11: beloop verpleegkundig, bloed prikken controle, bijgevoegd bloeduitslag, onderzoek bloed prikken, medicatie meenemen, prikken controle, bloeduitslag afwijken, goed nier goed, zeggen uitslag goed, onderzoek melden medicatie
+Topic 12: aantal controle, mdlarts aantal, mdlarts aantal controle, aantal controle venofer, controle venofer, aantal controle mdlarts, controle mdlarts aantal, aantal mdlarts, mdlarts aantal mdlarts, db aantal controle
+Topic 13: totaal heup, polycythaemia vera, toename anemie, anemie trombocytose, trombocytose splenomegalie, anemie trombocytose splenomegalie, mild anemie, totaal heup prothese, heup prothese, prothese polycythaemia
+Topic 14: fractuur vinger, consult osteoporose, soort fractuur, osteoporose hypocalciurie dementie, osteoporose hypocalciurie, huidig intake, hypocalciurie dementie, huidig intake calcium, intake calcium, aanvullen onderzoek
+Topic 15: toediening soort, vocht toediening, toediening soort infuus, vocht toediening soort, soort infuus, soort infuus medicatie, infuus medicatie, totaal vocht toediening, totaal vocht, uitscheiding divers
+Topic 16: refluxoesofagitis graad la, diafragmatica refluxoesofagitis graad, diafragmatica refluxoesofagitis, klein hernia diafragmatica, hernia diafragmatica refluxoesofagitis, body dementie, lewy body dementie, lewy body, graad la classificatie, graad la
+Topic 17: lens impl, phaco lens impl, extracaps phaco, extracaps phaco lens, phaco lens, oog cataractoperatie extracaps, oog cataractoperatie, cataractoperatie extracaps, cataractoperatie extracaps phaco, eosinofiel enteritis
+Topic 18: infuus nacl vocht, nacl vocht, nacl vocht toediening, soort infuus nacl, vocht toediening, vocht toediening soort, toediening soort infuus, toediening soort, soort infuus, infuus nacl
+
+Topic sizes: [4046, 611, 331, 203, 188, 156, 140, 109, 103, 103, 93, 82, 69, 59, 55, 55, 55, 51, 51]
+
+==================================================
+
+=== Results for 20 topics with 5 words, (ngram_range=(2, 3)) and min_topic_size:75 ===
+Coherence Score: 0.6510
+
+Topics and their key words:
+Topic 0: aanvullen onderzoek, overig actie, rectaal bloedverlie, hb controle, lichamelijk onderzoek, ferriprief anemie, dun darm, hemoglobine mmoll, bloedverlie anum, hd stabiel
+Topic 1: oraal stuk, tablet oraal, tablet oraal stuk, streetnaam zip, geacht collega, kenmerk patientid, kenmerk patientid betreffen, patientid betreffen, geb birthdate, initials geb
+Topic 2: diabete mellitus, diabete vpk, mellitus type, diabete mellitus type, diabetisch retinopathie, oraal stuk, diabetisch nefropathie, vervolgconsult diabete vpk, vervolgconsult diabete, insulin schema
+Topic 3: int knoppen, int knoppen int, knoppen int, lichamelijk onderzoek, algeheel malaise, type decursus, decursus type decursus, decursus type, diabete mellitus, knoppen int knoppen
+Topic 4: medisch dossier, naam functie, lichamelijk onderzoek, knoppen consult, vk sputovamo leeftijd, vk sputovamo, medisch dossier vk, dossier vk sputovamo, dossier vk, registratie seh
+Topic 5: triage nee, toediening medicatie, triage nee triage, nee triage, nee triage nee, verantwoordelijk verpleegkundig, verpleegkundig objectgegeven, verslaglegging verantwoordelijk, verslaglegging verantwoordelijk verpleegkundig, verantwoordelijk verpleegkundig objectgegeven
+Topic 6: tp controle, krijgen remicade, krijgen venofer, novomix ophogen, controle mirjam, int inge, mirjam bijsterveld, ophogen beloop, novomix ophogen beloop, beloop bld lijst
+Topic 7: indicatie aanvraag, asa klasse, antibiotisch profylaxe, profylaxe nvt, antibiotisch profylaxe nvt, cumarinederivaat nvt, aanvrager mdlarts, let poliklinisch, poliklinisch mdlverpleegkundig, let poliklinisch mdlverpleegkundig
+Topic 8: lab diana, tevoren lab, diana lab, labbon opsturen, lab formulier, lab lab, tevoren lab oz, lab labbon, lab mvh, lab oz
+Topic 9: basisdosering diabete lunch, basisdosering diabete, diabete lunch, slapen basisdosering diabete, lunch slapen basisdosering, slapen basisdosering, diabete lunch slapen, lunch slapen, lunch basisdosering diabete, lunch basisdosering
+Topic 10: alcoholisch levercirrose, dmii alcoholabusus, vg dmii alcoholabusus, vg dmii, alcoholisch levercirrose vg, levercirrose vg dmii, levercirrose vg, bloeden cardiavarix waarvoor, cardiavarix waarvoor, bloeden cardiavarix
+Topic 11: acute pancreatitis, chronisch pancreatitis, knoppen consult, visite bmd, pancreatitis alcoholabusus, vg dec cordis, vg dec, dec cordis, whipple operatie, chronisch pancreatitis alcoholabusus
+Topic 12: progressie cll, opname exacerbatie, opname exacerbatie copd, exacerbatie copd, volgen venetoclax, copd gold, cll waarvoor, chronisch lymfatisch leukemie, chronisch lymfatisch, lymfatisch leukemie
+Topic 13: graad ii, ductaal lobulair, ductaal lobulair carcinoom, invasief ductaal, lobulair carcinoom, invasief ductaal lobulair, hormonaal therapie, hemolytisch anemie, ii graad, ii graad ii
+Topic 14: decursus podo decursus, decursus podo, podo decursus, controle decursus podo, uitvoeren controle, controle decursus, uitvoeren controle decursus, decursus uitvoeren, podo decursus uitvoeren, decursus uitvoeren controle
+Topic 15: matig lvf, heup operatie jan, operatie jan, heup operatie, intake onbekend duur, verminderde intake onbekend, cag subtotaal stenose, pectoris cag subtotaal, cag subtotaal, subtotaal stenose
+Topic 16: beloop verpleegkundig, verslaglegging seh, verpleegkundig verslaglegging seh, sepsis arts, verpleegkundig martine, dooren beloop, vaatchirurg beloop, beloop verpleegkundig beloop, truus dooren beloop, vaatchirurg beloop verpleegkundig
+Topic 17: arteria iliaca, arteria iliaca externa, iliaca externa, chronisch nierinsufficiëntie, instent stenose arteria, instent stenose, stenose arteria iliaca, stenose arteria, renaal anemie, nierinsufficiëntie ckd stadium
+Topic 18: controle controle, controle controle controle, controle beloop uitvoeren, controle beloop, beloop uitvoeren controle, beloop uitvoeren, uitvoeren controle beloop, uitvoeren controle, controle alrie controle, alrie controle
+
+Topic sizes: [1219, 980, 549, 548, 435, 280, 248, 236, 138, 135, 120, 118, 109, 103, 93, 88, 85, 85, 82]
+
+==================================================
+
+=== Results for 20 topics with 5 words, (ngram_range=(2, 3)) and min_topic_size:100 ===
+Coherence Score: 0.7473
+
+Topics and their key words:
+Topic 0: basisdosering diabete lunch, basisdosering diabete, diabete lunch, lunch slapen basisdosering, slapen basisdosering diabete, slapen basisdosering, diabete lunch slapen, lunch slapen, lunch basisdosering diabete, lunch basisdosering
+Topic 1: graad ii, ductaal lobulair carcinoom, invasief ductaal lobulair, lobulair carcinoom, invasief ductaal, ductaal lobulair, hormonaal therapie, hemolytisch anemie, ii graad, ii pr
+Topic 2: progressie cll, opname exacerbatie copd, opname exacerbatie, exacerbatie copd, volgen venetoclax, copd gold, cll waarvoor, chronisch lymfatisch, chronisch lymfatisch leukemie, lymfatisch leukemie
+Topic 3: diabetisch nefropathie, zegelringcarcinoom sigmoid, oogheelkunen diabetisch retinopathie, start dialyse overvulling, hypertensie nierfunctieverlie, oogheelkunen diabetisch, acute start, acute start dialyse, overvulling klacht, verslechtering nierfunctie predialyse
+Topic 4: indicatie aanvraag, asa klasse, antibiotisch profylaxe, profylaxe nvt, antibiotisch profylaxe nvt, cumarinederivaat nvt, aanvrager mdlarts, poliklinisch mdlverpleegkundig, let poliklinisch, let poliklinisch mdlverpleegkundig
+Topic 5: diabete vpk, diabete mellitus, oraal stuk, diabete mellitus type, mellitus type, vervolgconsult diabete, vervolgconsult diabete vpk, insulin schema, int knoppen, type ii
+Topic 6: algeheel malaise, int knoppen, lichamelijk onderzoek, atriumfibrilleren diabete mellitus, atriumfibrilleren diabete, strumectomie paroxismaal, strumectomie paroxismaal atriumfibrilleren, chemotherapie volgen lobectomie, volgen lobectomie, chemotherapie volgen
+Topic 7: beloop verpleegkundig, aantal controle, int inge, internist controle, mdlarts aantal, controle int, controle int inge, krijgen remicade, tp controle, mdlarts aantal controle
+Topic 8: acute pancreatitis, chronisch pancreatitis, knoppen consult, pancreatitis alcoholabusus, visite bmd, vg dec cordis, vg dec, dec cordis, whipple operatie, chronisch pancreatitis alcoholabusus
+Topic 9: gist ulcus, ulcus par descenden, ulcus par, gist ulcus par, bloedverlie gebruik clopidogrel, gebruik clopidogrel cva, descenden duodeni waaruit, duodeni waaruit, duodeni waaruit bloedverlie, par descenden duodeni
+Topic 10: oraal stuk, tablet oraal, tablet oraal stuk, kenmerk patientid, kenmerk patientid betreffen, patientid betreffen, geb birthdate, geacht collega, initials geb birthdate, initials geb
+Topic 11: medisch dossier, naam functie, dossier vk sputovamo, dossier vk, medisch dossier vk, vk sputovamo leeftijd, vk sputovamo, registratie seh, dienstdoend specialist, dienstdoend specialist objectgegeven
+Topic 12: triage nee, toediening medicatie, nee triage nee, nee triage, triage nee triage, verslaglegging verantwoordelijk, verantwoordelijk verpleegkundig, verslaglegging verantwoordelijk verpleegkundig, verantwoordelijk verpleegkundig objectgegeven, verpleegkundig objectgegeven
+Topic 13: alcoholisch levercirrose, vg dmii alcoholabusus, dmii alcoholabusus, vg dmii, alcoholisch levercirrose vg, levercirrose vg, levercirrose vg dmii, bloeden cardiavarix waarvoor, cardiavarix waarvoor, bloeden cardiavarix
+Topic 14: knoppen consult, knoppen consult knoppen, consult knoppen, vervolgconsult type registratie, vervolgconsult type, type registratie, consult knoppen consult, type registratie uitbreiden, registratie uitbreiden, uitbreiden verwijzer
+Topic 15: rectaal bloedverlie, aanvullen onderzoek, overig actie, hb controle, ferriprief anemie, lichamelijk onderzoek, bloedverlie anum, hd stabiel, beloop vpk, hemoglobine mmoll
+
+Topic sizes: [135, 103, 109, 108, 237, 441, 313, 785, 106, 178, 803, 235, 259, 116, 173, 948]
+
+==================================================
+
+=== Results for 20 topics with 5 words, (ngram_range=(2, 3)) and min_topic_size:150 ===
+Coherence Score: 0.5530
+
+Topics and their key words:
+Topic 0: diabete vpk, diabete mellitus, oraal stuk, diabete mellitus type, mellitus type, int knoppen, vervolgconsult diabete, vervolgconsult diabete vpk, insulin schema, type ii
+Topic 1: indicatie aanvraag, asa klasse, antibiotisch profylaxe, profylaxe nvt, antibiotisch profylaxe nvt, cumarinederivaat nvt, aanvrager mdlarts, poliklinisch mdlverpleegkundig, let poliklinisch mdlverpleegkundig, let poliklinisch
+Topic 2: int knoppen, int knoppen int, knoppen int, lichamelijk onderzoek, type decursus, knoppen int knoppen, decursus type decursus, decursus type, av blok, graad iii
+Topic 3: beloop verpleegkundig, aantal controle, int inge, toediening soort, toediening soort infuus, vocht toediening, vocht toediening soort, soort infuus, internist controle, soort infuus medicatie
+Topic 4: oraal stuk, tablet oraal, tablet oraal stuk, aanvullen onderzoek, lichamelijk onderzoek, rectaal bloedverlie, mcv fl, kenmerk patientid, geb birthdate, patientid betreffen
+
+Topic sizes: [441, 209, 169, 824, 4546]
+
+==================================================

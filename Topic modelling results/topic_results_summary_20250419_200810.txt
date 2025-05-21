@@ -1,0 +1,92 @@
+
+=== Results for 10 topics with 5 words (ngram_range=(2, 5)) ===
+Coherence Score: Not available
+
+Topics and their key words:
+Topic 0: oraal stuk, tablet oraal, tablet oraal stuk, aanvullen onderzoek, lichamelijk onderzoek, mcv fl, rectaal bloedverlie, int knoppen, diabete mellitus, overig actie
+Topic 1: aantal controle, uitvoeren controle, decursus podo decursus, decursus podo, podo decursus, decursus uitvoeren, podo decursus uitvoeren, decursus podo decursus uitvoeren, decursus podo decursus uitvoeren controle, decursus uitvoeren controle
+Topic 2: basisdosering basisdosering, basisdosering basisdosering basisdosering, basisdosering basisdosering basisdosering basisdosering, diabete lunch, lunch slapen, diabete lunch slapen, slapen basisdosering, slapen basisdosering basisdosering, basisdosering basisdosering diabete, basisdosering diabete
+Topic 3: vocht vocht, toediening soort infuus, vocht toediening, vocht toediening soort, vocht toediening soort infuus, toediening soort, vocht vocht toediening soort infuus, vocht vocht toediening, vocht vocht toediening soort, soort infuus
+Topic 4: decursus podo, decursus podo decursus, podo decursus, leiden wond, zijde mtp, wonddebridement uitvoeren, opname nee leiden, diabetisch voetwond soort, neuropatisch wond classificatie wond diepte, leiden wond amputatie
+Topic 5: bespreeklijst trauma, trauma radiologie seh, trauma radiologie, radiologie seh, bespreeklijst trauma radiologie seh, bespreeklijst trauma radiologie, seh bespreeklijst, trauma radiologie seh bespreeklijst trauma, trauma radiologie seh bespreeklijst, seh bespreeklijst trauma
+Topic 6: sepsis arts, sepsis arts sepsis arts, sepsis arts sepsis, arts sepsis, arts sepsis arts, sepsis arts sepsis arts sepsis, arts sepsis arts sepsis, arts sepsis arts sepsis arts, sepsis arts phantasi, sepsis arts phantasi trail
+Topic 7: zak lasix oraal zak accepteren, oraal zak accepteren, zak lasix oraal, lasix oraal zak, zak lasix oraal zak, lasix oraal zak accepteren, zak lasix, zak accepteren, lasix oraal, oraal zak
+Topic 8: sir twee, spraak sepsis sir twee volgen, sepsis sir twee volgen, sepsis sir twee, volgen symptoom aanwezig nieuw, volgen symptoom, volgen symptoom aanwezig, verdenking infectie spraak, sepsis sir, infectie spraak sepsis sir twee
+
+Topic sizes: [6815, 481, 281, 95, 59, 29, 17, 17, 16]
+
+==================================================
+
+=== Results for 10 topics with 10 words (ngram_range=(2, 5)) ===
+Coherence Score: Not available
+
+Topics and their key words:
+Topic 0: oraal stuk, tablet oraal, tablet oraal stuk, aanvullen onderzoek, lichamelijk onderzoek, mcv fl, rectaal bloedverlie, int knoppen, diabete mellitus, overig actie
+Topic 1: aantal controle, uitvoeren controle, decursus podo decursus, decursus podo, podo decursus, decursus uitvoeren, podo decursus uitvoeren, decursus podo decursus uitvoeren, decursus podo decursus uitvoeren controle, decursus uitvoeren controle
+Topic 2: basisdosering basisdosering, basisdosering basisdosering basisdosering, basisdosering basisdosering basisdosering basisdosering, diabete lunch, lunch slapen, diabete lunch slapen, slapen basisdosering, slapen basisdosering basisdosering, basisdosering basisdosering diabete, basisdosering diabete
+Topic 3: vocht vocht, toediening soort infuus, vocht toediening, vocht toediening soort, vocht toediening soort infuus, toediening soort, vocht vocht toediening soort infuus, vocht vocht toediening, vocht vocht toediening soort, soort infuus
+Topic 4: decursus podo, decursus podo decursus, podo decursus, leiden wond, zijde mtp, wonddebridement uitvoeren, opname nee leiden, diabetisch voetwond soort, neuropatisch wond classificatie wond diepte, leiden wond amputatie
+Topic 5: bespreeklijst trauma, trauma radiologie seh, trauma radiologie, radiologie seh, bespreeklijst trauma radiologie seh, bespreeklijst trauma radiologie, seh bespreeklijst, trauma radiologie seh bespreeklijst trauma, trauma radiologie seh bespreeklijst, seh bespreeklijst trauma
+Topic 6: sepsis arts, sepsis arts sepsis arts, sepsis arts sepsis, arts sepsis, arts sepsis arts, sepsis arts sepsis arts sepsis, arts sepsis arts sepsis, arts sepsis arts sepsis arts, sepsis arts phantasi, sepsis arts phantasi trail
+Topic 7: zak lasix oraal zak accepteren, oraal zak accepteren, zak lasix oraal, lasix oraal zak, zak lasix oraal zak, lasix oraal zak accepteren, zak lasix, zak accepteren, lasix oraal, oraal zak
+Topic 8: sir twee, spraak sepsis sir twee volgen, sepsis sir twee volgen, sepsis sir twee, volgen symptoom aanwezig nieuw, volgen symptoom, volgen symptoom aanwezig, verdenking infectie spraak, sepsis sir, infectie spraak sepsis sir twee
+
+Topic sizes: [6815, 481, 281, 95, 59, 29, 17, 17, 16]
+
+==================================================
+
+=== Results for 20 topics with 5 words (ngram_range=(2, 5)) ===
+Coherence Score: Not available
+
+Topics and their key words:
+Topic 0: oraal stuk, tablet oraal, tablet oraal stuk, aanvullen onderzoek, lichamelijk onderzoek, mcv fl, rectaal bloedverlie, int knoppen, diabete mellitus, intern geneeskun
+Topic 1: aantal controle, uitvoeren controle, decursus podo, decursus podo decursus, podo decursus, controle controle, decursus podo decursus uitvoeren, decursus uitvoeren, podo decursus uitvoeren, decursus podo decursus uitvoeren controle
+Topic 2: beloop verpleegkundig, tevoren lab, diana lab, lab diana, lab lab, lab urine, bloed prikken controle, onderzoek bloed prikken, onderzoek bloed prikken controle, bijgevoegd bloeduitslag
+Topic 3: basisdosering basisdosering, basisdosering basisdosering basisdosering, basisdosering basisdosering basisdosering basisdosering, diabete lunch, lunch slapen, diabete lunch slapen, slapen basisdosering, slapen basisdosering basisdosering, basisdosering diabete, basisdosering basisdosering diabete
+Topic 4: krijgen remicade, krijgen remicade iv, krijgen venofer, remicade iv, beloop bld lijst, beloop bld, novomix ophogen, bld lijst, ophogen beloop, ophogen beloop bld
+Topic 5: vocht vocht, toediening soort infuus, vocht toediening, vocht toediening soort, vocht toediening soort infuus, toediening soort, vocht vocht toediening soort infuus, vocht vocht toediening, vocht vocht toediening soort, soort infuus
+Topic 6: denosumab inj, injectie denosumab, overig actie, starten denosumab, osteoporose baseren, fractuur dexa, aanhouden griepklacht, gebruiken denosumab, lichamelijk onderzoek, gewrichtsklachten aanhouden griepklacht starten
+Topic 7: videocapsule bloed, gastroscopie focus videocapsule bloed proximaal, melena gastroscopie focus videocapsule bloed, vg recidiveren melaena, vg recidiveren melaena angiodysplasie, recidiveren melena gastroscopie focus videocapsule, gastroscopie focus videocapsule, videocapsule bloed proximaal, melena gastroscopie focus videocapsule, melena gastroscopie focus
+Topic 8: decursus podo, decursus podo decursus, podo decursus, leiden wond, zijde mtp, wonddebridement uitvoeren, opname nee leiden, diabetisch voetwond soort, neuropatisch wond classificatie wond diepte, leiden wond amputatie
+Topic 9: eosinofiel enteritis, alopecia totalis, atopisch constitutie, gastroduodenitis malabsorptie smaakverlie tongatrofie, satoyoshi spierkramp alopecia, satoyoshi spierkramp, eosinofiel gastroduodenitis malabsorptie smaakverlie tongatrofie, satoyoshi spierkramp alopecia eosinofiel enteritis, malabsorptie smaakverlie tongatrofie, spierkramp alopecia
+Topic 10: overig actie, verz transferrin, hb ht, ijzer transferrin verz transferrin, transferrin verz transferrin, ijzer transferrin verz, transferrin verz, ijzer transferrin, ferriprief anemie fenprocoumon, anemie fenprocoumon
+Topic 11: diëtetiek evaluatie, consult diëtetiek evaluatie, consult diëtetiek, evaluatie jaarcontrole, diëtetiek evaluatie jaarcontrole, consult diëtetiek evaluatie jaarcontrole, voedingsanamnees eetdagboek, bevinding nav voedingsanamnees eetdagboek, bevinding nav voedingsanamnees, bevinding nav
+Topic 12: bespreeklijst trauma, trauma radiologie seh, trauma radiologie, radiologie seh, bespreeklijst trauma radiologie seh, bespreeklijst trauma radiologie, seh bespreeklijst, trauma radiologie seh bespreeklijst trauma, trauma radiologie seh bespreeklijst, seh bespreeklijst trauma
+Topic 13: zak lasix oraal zak accepteren, oraal zak accepteren, zak lasix oraal, lasix oraal zak, zak lasix oraal zak, lasix oraal zak accepteren, zak lasix, zak accepteren, lasix oraal, oraal zak
+Topic 14: sepsis arts, sepsis arts sepsis arts, sepsis arts sepsis, arts sepsis, arts sepsis arts, sepsis arts sepsis arts sepsis, arts sepsis arts sepsis, arts sepsis arts sepsis arts, sepsis arts phantasi, sepsis arts phantasi trail
+Topic 15: innen peggy, controle innen peggy, controle innen, innen peggy controle, mary controle, peggy controle, innen peggy internist controle, innen peggy tp, controle innen peggy controle, innen peggy internist
+Topic 16: rec rectaal, bloedverlie portaal, rectaal bloedverlie portaal hypertensie, rectaal bloedverlie portaal hypertensie cryptogeen, portaal hypertensie cryptogeen, hypertensie cryptogeen, rec rectaal bloedverlie portaal hypertensie, rec rectaal bloedverlie portaal, rec rectaal bloedverlie, bloedverlie portaal hypertensie cryptogeen
+Topic 17: sir twee, spraak sepsis sir twee volgen, sepsis sir twee volgen, sepsis sir twee, volgen symptoom aanwezig nieuw, volgen symptoom, volgen symptoom aanwezig, verdenking infectie spraak, sepsis sir, infectie spraak sepsis sir twee
+Topic 18: terminaal ileum, dalen calprotectine, vg idiopathisch longembolie arthritis, doorvoeren vg, doorvoeren vg idiopathisch, vg idiopathisch longembolie arthritis psoriatica, overwegen doorvoeren vg, verkorting overwegen doorvoeren vg idiopathisch, overwegen doorvoeren vg idiopathisch longembolie, overwegen doorvoeren vg idiopathisch
+
+Topic sizes: [6245, 321, 268, 249, 144, 95, 88, 81, 59, 55, 50, 32, 29, 17, 17, 16, 16, 16, 12]
+
+==================================================
+
+=== Results for 20 topics with 10 words (ngram_range=(2, 5)) ===
+Coherence Score: Not available
+
+Topics and their key words:
+Topic 0: oraal stuk, tablet oraal, tablet oraal stuk, aanvullen onderzoek, lichamelijk onderzoek, mcv fl, rectaal bloedverlie, int knoppen, diabete mellitus, intern geneeskun
+Topic 1: aantal controle, uitvoeren controle, decursus podo, decursus podo decursus, podo decursus, controle controle, decursus podo decursus uitvoeren, decursus uitvoeren, podo decursus uitvoeren, decursus podo decursus uitvoeren controle
+Topic 2: beloop verpleegkundig, tevoren lab, diana lab, lab diana, lab lab, lab urine, bloed prikken controle, onderzoek bloed prikken, onderzoek bloed prikken controle, bijgevoegd bloeduitslag
+Topic 3: basisdosering basisdosering, basisdosering basisdosering basisdosering, basisdosering basisdosering basisdosering basisdosering, diabete lunch, lunch slapen, diabete lunch slapen, slapen basisdosering, slapen basisdosering basisdosering, basisdosering diabete, basisdosering basisdosering diabete
+Topic 4: krijgen remicade, krijgen remicade iv, krijgen venofer, remicade iv, beloop bld lijst, beloop bld, novomix ophogen, bld lijst, ophogen beloop, ophogen beloop bld
+Topic 5: vocht vocht, toediening soort infuus, vocht toediening, vocht toediening soort, vocht toediening soort infuus, toediening soort, vocht vocht toediening soort infuus, vocht vocht toediening, vocht vocht toediening soort, soort infuus
+Topic 6: denosumab inj, injectie denosumab, overig actie, starten denosumab, osteoporose baseren, fractuur dexa, aanhouden griepklacht, gebruiken denosumab, lichamelijk onderzoek, gewrichtsklachten aanhouden griepklacht starten
+Topic 7: videocapsule bloed, gastroscopie focus videocapsule bloed proximaal, melena gastroscopie focus videocapsule bloed, vg recidiveren melaena, vg recidiveren melaena angiodysplasie, recidiveren melena gastroscopie focus videocapsule, gastroscopie focus videocapsule, videocapsule bloed proximaal, melena gastroscopie focus videocapsule, melena gastroscopie focus
+Topic 8: decursus podo, decursus podo decursus, podo decursus, leiden wond, zijde mtp, wonddebridement uitvoeren, opname nee leiden, diabetisch voetwond soort, neuropatisch wond classificatie wond diepte, leiden wond amputatie
+Topic 9: eosinofiel enteritis, alopecia totalis, atopisch constitutie, gastroduodenitis malabsorptie smaakverlie tongatrofie, satoyoshi spierkramp alopecia, satoyoshi spierkramp, eosinofiel gastroduodenitis malabsorptie smaakverlie tongatrofie, satoyoshi spierkramp alopecia eosinofiel enteritis, malabsorptie smaakverlie tongatrofie, spierkramp alopecia
+Topic 10: overig actie, verz transferrin, hb ht, ijzer transferrin verz transferrin, transferrin verz transferrin, ijzer transferrin verz, transferrin verz, ijzer transferrin, ferriprief anemie fenprocoumon, anemie fenprocoumon
+Topic 11: diëtetiek evaluatie, consult diëtetiek evaluatie, consult diëtetiek, evaluatie jaarcontrole, diëtetiek evaluatie jaarcontrole, consult diëtetiek evaluatie jaarcontrole, voedingsanamnees eetdagboek, bevinding nav voedingsanamnees eetdagboek, bevinding nav voedingsanamnees, bevinding nav
+Topic 12: bespreeklijst trauma, trauma radiologie seh, trauma radiologie, radiologie seh, bespreeklijst trauma radiologie seh, bespreeklijst trauma radiologie, seh bespreeklijst, trauma radiologie seh bespreeklijst trauma, trauma radiologie seh bespreeklijst, seh bespreeklijst trauma
+Topic 13: zak lasix oraal zak accepteren, oraal zak accepteren, zak lasix oraal, lasix oraal zak, zak lasix oraal zak, lasix oraal zak accepteren, zak lasix, zak accepteren, lasix oraal, oraal zak
+Topic 14: sepsis arts, sepsis arts sepsis arts, sepsis arts sepsis, arts sepsis, arts sepsis arts, sepsis arts sepsis arts sepsis, arts sepsis arts sepsis, arts sepsis arts sepsis arts, sepsis arts phantasi, sepsis arts phantasi trail
+Topic 15: innen peggy, controle innen peggy, controle innen, innen peggy controle, mary controle, peggy controle, innen peggy internist controle, innen peggy tp, controle innen peggy controle, innen peggy internist
+Topic 16: rec rectaal, bloedverlie portaal, rectaal bloedverlie portaal hypertensie, rectaal bloedverlie portaal hypertensie cryptogeen, portaal hypertensie cryptogeen, hypertensie cryptogeen, rec rectaal bloedverlie portaal hypertensie, rec rectaal bloedverlie portaal, rec rectaal bloedverlie, bloedverlie portaal hypertensie cryptogeen
+Topic 17: sir twee, spraak sepsis sir twee volgen, sepsis sir twee volgen, sepsis sir twee, volgen symptoom aanwezig nieuw, volgen symptoom, volgen symptoom aanwezig, verdenking infectie spraak, sepsis sir, infectie spraak sepsis sir twee
+Topic 18: terminaal ileum, dalen calprotectine, vg idiopathisch longembolie arthritis, doorvoeren vg, doorvoeren vg idiopathisch, vg idiopathisch longembolie arthritis psoriatica, overwegen doorvoeren vg, verkorting overwegen doorvoeren vg idiopathisch, overwegen doorvoeren vg idiopathisch longembolie, overwegen doorvoeren vg idiopathisch
+
+Topic sizes: [6245, 321, 268, 249, 144, 95, 88, 81, 59, 55, 50, 32, 29, 17, 17, 16, 16, 16, 12]
+
+==================================================
