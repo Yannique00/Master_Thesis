@@ -1,0 +1,37 @@
+=== Results for 30 topics with 5 words ===
+Coherence Score: 0.6413
+
+Topics and their key words:
+Topic 0: oraal, tablet, onderzoek, anemie, opname, hb, medicatie, normaal, bloedverlie, mmoll
+Topic 1: diabetisch, diabete, mellitus, voet, type, insuline, retinopathie, laat, ulcus, hypertensie
+Topic 2: anemie, obinutuzumab, cll, volgen, copd, progressie, stadium, beiderzijds, mammacarcinoom, venetoclax
+Topic 3: iliaca, arteria, carotis, stenose, externa, goed, aureus, cva, nierinsufficiëntie, chronisch
+Topic 4: lunch, slapen, diabete, lev, ontbijt, insulin, lantus, spuiten, slaaptable, bitterball
+Topic 5: sepsis, tp, beloop, remicade, krijgen, balie, venofer, mirjam, ha, alrie
+Topic 6: anemie, ferriprief, gastroscopie, overig, ferritine, ijzerinfuus, beloop, hemoglobine, hb, gastro
+Topic 7: lab, voltooien, diana, opsturen, labbon, blank, tevoren, graag, vandaag, hb
+Topic 8: verpleegkundig, beloop, ct, meenemen, ctbuik, werkdag, dagbehandeling, bijgevoegd, routenummer, contrastverpleegkundige
+Topic 9: eten, knoppen, consult, verkort, kg, gaan, gewicht, labaanvraag, gewichtsverlie, mdlarts
+Topic 10: aantal, mdlarts, venofer, jp, lm, db, remicade, jb, mp, ed
+Topic 11: vocht, soort, toediening, infuus, nacl, uitscheiding, totaal, medicatie, divers, ring
+Topic 12: decursus, podo, uitvoeren, wonddebridement, wond, tcc, mtp, osa, service, ulcus
+Topic 13: osteoporose, denosumab, fractuur, injectie, dexa, bisfosfonaat, wervelfractuur, calcium, forsteo, tscore
+Topic 14: nefrotisch, fsgs, prednison, vermoedelijk, urologie, syndroom, jicht, artritis, blaasbiopen, tgv
+Topic 15: eosinofiel, enteritis, alopecia, malabsorptie, prednisolon, totalis, tongatrofie, smaakverlie, oncholyse, gastroduodenitis
+Topic 16: urine, uitscheiding, eliane, lab, urineproductie, oz, tevoren, afronding, bence, jone
+Topic 17: bespreeklijst, trauma, seh, mtp, , , , , , 
+Topic 18: peggy, innen, mary, deyck, daemenvan, dochter, zus, mailadre, darbepoëtine, tp
+Topic 19: echo, rontg, abdemen, afronding, toelichting, divers, lab, nieren, abdomen, beerenhout
+Topic 20: heupluxatie, buikschema, hepatica, flexura, buikwand, echogeleide, aue, endometrium, compliceren, adnexextirpatie
+Topic 21: sepsis, sir, symptoom, hartfrequentie, bestaan, bloedkweken, afnemen, standaard, minuut, basis
+Topic 22: eliane, tp, xray, opstuuren, ingescand, afronding, aranesp, rontg, nefroloog, oogarts
+Topic 23: int, sr, , , , , , , , 
+Topic 24: hospice, abstinerend, cryptogeen, leverlijen, portaal, rec, merefelen, rectaal, speciële, bloedverlie
+Topic 25: wond, leiden, neuropatisch, kwaliteitsindicator, diepte, lokatie, voetwond, opafgenomen, wondkweek, amputatie
+Topic 26: videocapsule, afrondig, doorgeven, mair, bereiekn, recuvery, heerken, ferinjectafspraak, onderzoeken, vitalis
+Topic 27: ileum, angiodysplasieen, crohn, calpro, diarree, calprotectine, humira, terminaal, mri, doorvoeren
+Topic 28: zak, lasix, accepteren, oraal, liefst, erytrocyte, bed, transfusie, , 
+
+Topic sizes: [4642, 637, 596, 279, 251, 216, 189, 181, 116, 107, 95, 95, 93, 78, 50, 48, 28, 28, 25, 25, 23, 20, 18, 17, 16, 15, 12, 12, 11]
+
+==================================================

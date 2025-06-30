@@ -1,0 +1,10 @@
+{
+    "functions": [
+        "arts",
+        "leverarts",
+        "verpleegkundige",
+        "huisarts",
+        "cardioloog",
+        "chirurg"
+    ]
+}

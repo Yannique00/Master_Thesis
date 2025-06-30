@@ -1,0 +1,109 @@
+
+=== Results for 20 topics with 5 words, (ngram_range=(1, 2)) and min_topic_size:30 ===
+Coherence Score: 0.6888
+
+Topics and their key words:
+Topic 0: oraal, stuk, oraal stuk, tablet, onderzoek, anemie, hb, goed, opname, mmoll
+Topic 1: obinutuzumab, cll, progressie, copd, progressie cll, volgen, venetoclax, beiderzijds, waarvoor, opname exacerbatie
+Topic 2: internist, beloop, int inge, tp, internist controle, inge, balie, ha, accepteren, wb
+Topic 3: lab, diana, echo, blank, tevoren, controle, labbon, tevoren lab, opsturen, rontg
+Topic 4: diabete lunch, lunch, lunch slapen, basisdosering diabete, basisdosering, slapen, slapen basisdosering, diabete, slapen diabete, lunch diabete
+Topic 5: diabete vpk, vpk, diabete, vervolgconsult diabete, insulin schema, doel, insulin, schema, vervolgconsult, doel verbeteren
+Topic 6: decursus, controle, uitvoeren controle, controle decursus, podo decursus, decursus podo, controle controle, decursus uitvoeren, podo, uitvoeren
+Topic 7: aantal, aantal controle, controle, controle aantal, mdlarts aantal, mdlarts, venofer, controle venofer, lm, jp
+Topic 8: incontinentie, graad ii, invasief ductaal, ductaal, ductaal lobulair, lobulair carcinoom, lobulair, graad, invasief, hormonaal therapie
+Topic 9: amlodipine, metformine, tablet, tablet oraal, starten metformine, pneumonie goed, parainfectieus hypertensie, start amlodipine, goed respons, controle leverbiochemiestoornis
+Topic 10: vocht toediening, toediening soort, soort infuus, soort, infuus nacl, vocht, toediening, nacl, infuus, sepsis arts
+Topic 11: iliaca, carotis, arteria iliaca, arteria, stenose, iliaca externa, externa, claudicatio, nierinsufficiëntie, chronisch
+Topic 12: waarvoor, chronisch, dvt, oedeem, lasercoagulatie, nefrectomie, egfr, cystenier egfr, nierschade cystenier, chronisch nierschade
+Topic 13: beloop verpleegkundig, verpleegkundig, beloop, mepitel, drukverband, komen, verslaglegging seh, seh, wondverband, pijnstilling
+Topic 14: oog, laat, eosinofiel, impl, lens impl, phaco lens, extracaps, extracaps phaco, lens, phaco
+Topic 15: hyperparathyreoïdie, intern, secundair hyperparathyreoïdie, intern geneeskun, geneeskun, secundair, opname intern, niertransplantatie, ifirstnamem, niertransplantatie stabiel
+Topic 16: decursus, podo decursus, decursus podo, podo, wonddebridement, wonddebridement uitvoeren, uitvoeren, wond, tcc, zijde mtp
+Topic 17: diëtetiek, sn, dieethalv, evaluatie, melk, diëtetiek evaluatie, rijst, consult diëtetiek, fruit, evaluatie jaarcontrole
+Topic 18: ct, meenemen, ctbuik, werkdag, dagbehandeling, routenummer, bijgevoegd, bijgevoegd bloeduitslag, contrastverpleegkundige, medicatie meenemen
+
+Topic sizes: [4951, 357, 214, 206, 188, 134, 132, 104, 103, 102, 86, 70, 66, 57, 51, 47, 43, 33, 31]
+
+==================================================
+
+=== Results for 20 topics with 5 words, (ngram_range=(1, 2)) and min_topic_size:50 ===
+Coherence Score: 0.6918
+
+Topics and their key words:
+Topic 0: oraal, stuk, oraal stuk, tablet, onderzoek, anemie, tablet oraal, hb, mmoll, medicatie
+Topic 1: diabete, diabetisch, type, diabete mellitus, mellitus, voet, mellitus type, insuline, laat, diabete vpk
+Topic 2: controle, controle controle, beloop, tp, staan, controle beloop, afspr, pt, beloop uitvoeren, opsturen
+Topic 3: lab, diana, echo, blank, tevoren, controle, labbon, rontg, tevoren lab, diana lab
+Topic 4: diabete lunch, lunch, lunch slapen, basisdosering diabete, basisdosering, slapen, slapen basisdosering, diabete, slapen diabete, lunch diabete
+Topic 5: iliaca, thoracaal, arteria iliaca, hypertensie, thoracaal pijnklacht, arteria, carotis, recidief, laat, chronisch
+Topic 6: anemie, hypertensie, jan, stenose, chronisch, verminderde, matig, leeftijd, mild, postoperatief
+Topic 7: obinutuzumab, cll, progressie cll, venetoclax, progressie, copd, volgen, beiderzijds, ibrutinib, opname exacerbatie
+Topic 8: wd, nefrotisch syndroom, nefrotisch, infuus, prednison, fsgs, syndroom, artritis, nierinsufficiëntie, tgv
+Topic 9: incontinentie, graad ii, invasief ductaal, ductaal, ductaal lobulair, lobulair carcinoom, lobulair, graad, invasief, hormonaal therapie
+Topic 10: decursus, decursus podo, podo decursus, podo, uitvoeren controle, uitvoeren, controle decursus, decursus uitvoeren, controle, wonddebridement
+Topic 11: beloop verpleegkundig, verpleegkundig, beloop, meenemen, werkdag, dagbehandeling, bijgevoegd bloeduitslag, routenummer, bijgevoegd, prikken controle
+Topic 12: aantal, aantal controle, mdlarts aantal, controle, mdlarts, venofer, controle venofer, jp, lm, db
+Topic 13: splenomegalie, vera, totaal heup, polycythaemia, polycythaemia vera, heup, myelofibrose, toename, toename anemie, totaal
+Topic 14: osteoporose, fractuur, dexa, denosumab, calcium, nee, tscore, onderzoek, laat, consult
+Topic 15: vocht toediening, toediening soort, soort infuus, soort, vocht, infuus medicatie, toediening, infuus, medicatie, totaal vocht
+Topic 16: dementie, cognitief, parkinson, diafragmatica refluxoesofagitis, body dementie, lewy, lewy body, body, graad la, la classificatie
+Topic 17: oog, laat, eosinofiel, impl, lens impl, phaco lens, extracaps, extracaps phaco, lens, phaco
+Topic 18: nacl vocht, vocht toediening, toediening soort, soort infuus, infuus nacl, soort, vocht, toediening, nacl, infuus
+
+Topic sizes: [4046, 611, 331, 203, 188, 156, 140, 109, 103, 103, 93, 82, 69, 59, 55, 55, 55, 51, 51]
+
+==================================================
+
+=== Results for 20 topics with 5 words, (ngram_range=(1, 2)) and min_topic_size:75 ===
+Coherence Score: 0.6525
+
+Topics and their key words:
+Topic 0: hb, bloedverlie, anemie, onderzoek, bloeding, beloop, clopidogrel, controle, morgen, aanvullen onderzoek
+Topic 1: oraal, stuk, oraal stuk, tablet, tablet oraal, mmoll, ul, streetnaam, zip, opname
+Topic 2: diabete, diabetisch, diabete mellitus, mellitus, type, diabete vpk, laat, mellitus type, retinopathie, hypertensie
+Topic 3: waarvoor, anemie, decursus, int, lab, int knoppen, laat, goed, onderzoek, knoppen
+Topic 4: voltooien, medisch, seh, onderzoek, naam, dossier, medisch dossier, verantwoordelijk, objectgegeven, naam functie
+Topic 5: nee, verpleegkundig, pijnscore, medicatie, seh, triage, triage nee, toediening medicatie, objectgegeven, toediening
+Topic 6: beloop, tp, staan, pt, controle, krijgen, afspr, ha, opsturen, remicade
+Topic 7: aanvraag, nvt, endoscopie, indicatie aanvraag, cumarinederivaat, aanvrager, asa klasse, let, klasse, antibiotisch profylaxe
+Topic 8: lab, diana, blank, labbon, opsturen, tevoren, lab diana, tevoren lab, diana lab, denosumab
+Topic 9: basisdosering diabete, basisdosering, diabete lunch, slapen basisdosering, lunch, lunch slapen, slapen, diabete, lunch basisdosering, basisdosering insulatard
+Topic 10: alcoholabusus, levercirrose, alcoholisch, alcoholisch levercirrose, dmii alcoholabusus, alcohol, vg dmii, vg, dmii, levercirrose vg
+Topic 11: pancreatitis, acute pancreatitis, voltooien, chronisch pancreatitis, whipple, acute, chronisch, consult, alcoholabusus, knoppen consult
+Topic 12: obinutuzumab, cll, progressie cll, venetoclax, progressie, copd, volgen, beiderzijds, ibrutinib, opname exacerbatie
+Topic 13: incontinentie, graad ii, ductaal, ductaal lobulair, lobulair carcinoom, invasief ductaal, lobulair, graad, invasief, hormonaal therapie
+Topic 14: decursus, decursus podo, podo decursus, podo, uitvoeren controle, controle decursus, uitvoeren, decursus uitvoeren, controle, wonddebridement
+Topic 15: hypertensie, verminderde, matig, jan, leeftijd, stenose, matig lvf, anemie, mild, vt
+Topic 16: beloop verpleegkundig, verpleegkundig, beloop, drukverband, mepitel, komen, arts, onderbeen, patiente, verslaglegging seh
+Topic 17: iliaca, arteria iliaca, arteria, carotis, iliaca externa, stenose, externa, nierinsufficiëntie, chronisch nierinsufficiëntie, chronisch
+Topic 18: controle, controle controle, controle beloop, beloop uitvoeren, uitvoeren controle, alrie controle, controle alrie, uitvoeren, alrie, onderzoeken controle
+
+Topic sizes: [1219, 980, 549, 548, 435, 280, 248, 236, 138, 135, 120, 118, 109, 103, 93, 88, 85, 85, 82]
+
+==================================================
+
+=== Results for 20 topics with 5 words, (ngram_range=(1, 2)) and min_topic_size:100 ===
+Coherence Score: 0.6939
+
+Topics and their key words:
+Topic 0: basisdosering diabete, basisdosering, diabete lunch, slapen basisdosering, lunch, lunch slapen, slapen, diabete, lunch basisdosering, basisdosering insulatard
+Topic 1: incontinentie, graad ii, ductaal lobulair, ductaal, invasief ductaal, lobulair carcinoom, lobulair, graad, invasief, hormonaal therapie
+Topic 2: obinutuzumab, cll, progressie cll, venetoclax, copd, progressie, volgen, beiderzijds, ibrutinib, opname exacerbatie
+Topic 3: diabetisch, dialyse, start, diabetisch nefropathie, juni, oogheelkunen diabetisch, gracz, acute start, nierfunctie predialyse, overvulling klacht
+Topic 4: aanvraag, nvt, endoscopie, indicatie aanvraag, cumarinederivaat, let, aanvrager, asa klasse, klasse, antibiotisch profylaxe
+Topic 5: diabete, diabete vpk, laat, type, insuline, vpk, diabete mellitus, mellitus, voet, eh
+Topic 6: anemie, waarvoor, onderzoek, trombopenie, lobectomie, opname, atriumfibrilleren, hypertensie, laat, int
+Topic 7: controle, lab, beloop, aantal, beloop verpleegkundig, aantal controle, verpleegkundig, internist, inge, int inge
+Topic 8: pancreatitis, acute pancreatitis, voltooien, chronisch pancreatitis, whipple, acute, chronisch, consult, knoppen consult, routine
+Topic 9: gist, ulcus, duodeni, hb, gist ulcus, clopidogrel, ulcus par, duodeni waaruit, waaruit bloedverlie, par descenden
+Topic 10: oraal, stuk, oraal stuk, tablet, tablet oraal, mmoll, ul, opname, streetnaam, onderzoek
+Topic 11: voltooien, medisch, seh, medisch dossier, dossier, verantwoordelijk, objectgegeven, naam functie, onderzoek, functie
+Topic 12: nee, verpleegkundig, pijnscore, medicatie, seh, triage, triage nee, toediening medicatie, toediening, objectgegeven
+Topic 13: alcoholabusus, levercirrose, alcoholisch, alcoholisch levercirrose, dmii alcoholabusus, vg, vg dmii, alcohol, dmii, hb
+Topic 14: knoppen, knoppen consult, consult, uitbreiden, consult knoppen, vervolgconsult type, type registratie, rve, registratie uitbreiden, uitbreiden verwijzer
+Topic 15: hb, bloedverlie, anemie, onderzoek, coloscopie, morgen, voltooien, accepteren, controle, beloop
+
+Topic sizes: [135, 103, 109, 108, 237, 441, 313, 785, 106, 178, 803, 235, 259, 116, 173, 948]
+
+==================================================

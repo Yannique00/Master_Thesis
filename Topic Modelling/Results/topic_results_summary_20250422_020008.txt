@@ -1,0 +1,168 @@
+
+=== Results for 10 topics with 5 words (ngram_range=(1, 2)) ===
+Coherence Score: 0.8162
+
+Topics and their key words:
+Topic 0: oraal, stuk, onderzoek, anemie, oraal stuk, tablet, opname, waarvoor, goed, hb
+Topic 1: controle, aantal, decursus, aantal controle, uitvoeren controle, podo decursus, decursus podo, podo, decursus uitvoeren, uitvoeren
+Topic 2: basisdosering, basisdosering basisdosering, lunch, diabete lunch, lunch slapen, slapen, diabete, slapen basisdosering, basisdosering diabete, slapen diabete
+Topic 3: vocht, vocht vocht, vocht toediening, toediening soort, soort infuus, soort, toediening, infuus nacl, infuus, nacl
+Topic 4: wond, decursus, decursus podo, podo decursus, podo, leiden wond, nee, leiden, wonddebridement, zijde mtp
+Topic 5: trauma radiologie, bespreeklijst, bespreeklijst trauma, radiologie seh, seh bespreeklijst, radiologie, trauma, seh, radiologeibespreking vd, radiologeibespreking
+Topic 6: sepsis arts, arts sepsis, sepsis, arts, trail, phantasi trail, phantasi, arts phantasi, trail sepsis, trail nee
+Topic 7: zak, zak lasix, lasix oraal, zak accepteren, oraal zak, accepteren zak, lasix, accepteren, oraal, laat oraal
+Topic 8: sepsis, spraak sepsis, infectie spraak, sir twee, sepsis sir, twee volgen, symptoom aanwezig, volgen symptoom, aanwezig nieuw, vpk bestaan
+
+Topic sizes: [6815, 481, 281, 95, 59, 29, 17, 17, 16]
+
+==================================================
+
+=== Results for 10 topics with 10 words (ngram_range=(1, 2)) ===
+Coherence Score: 0.6746
+
+Topics and their key words:
+Topic 0: oraal, stuk, onderzoek, anemie, oraal stuk, tablet, opname, waarvoor, goed, hb
+Topic 1: controle, aantal, decursus, aantal controle, uitvoeren controle, podo decursus, decursus podo, podo, decursus uitvoeren, uitvoeren
+Topic 2: basisdosering, basisdosering basisdosering, lunch, diabete lunch, lunch slapen, slapen, diabete, slapen basisdosering, basisdosering diabete, slapen diabete
+Topic 3: vocht, vocht vocht, vocht toediening, toediening soort, soort infuus, soort, toediening, infuus nacl, infuus, nacl
+Topic 4: wond, decursus, decursus podo, podo decursus, podo, leiden wond, nee, leiden, wonddebridement, zijde mtp
+Topic 5: trauma radiologie, bespreeklijst, bespreeklijst trauma, radiologie seh, seh bespreeklijst, radiologie, trauma, seh, radiologeibespreking vd, radiologeibespreking
+Topic 6: sepsis arts, arts sepsis, sepsis, arts, trail, phantasi trail, phantasi, arts phantasi, trail sepsis, trail nee
+Topic 7: zak, zak lasix, lasix oraal, zak accepteren, oraal zak, accepteren zak, lasix, accepteren, oraal, laat oraal
+Topic 8: sepsis, spraak sepsis, infectie spraak, sir twee, sepsis sir, twee volgen, symptoom aanwezig, volgen symptoom, aanwezig nieuw, vpk bestaan
+
+Topic sizes: [6815, 481, 281, 95, 59, 29, 17, 17, 16]
+
+==================================================
+
+=== Results for 20 topics with 5 words (ngram_range=(1, 2)) ===
+Coherence Score: 0.7779
+
+Topics and their key words:
+Topic 0: oraal, stuk, anemie, onderzoek, oraal stuk, tablet, opname, waarvoor, goed, hb
+Topic 1: controle, aantal, aantal controle, decursus, uitvoeren controle, podo decursus, decursus podo, podo, controle controle, decursus uitvoeren
+Topic 2: lab, beloop verpleegkundig, beloop, verpleegkundig, diana, controle, opsturen, dagbehandeling, ct, tevoren
+Topic 3: basisdosering, basisdosering basisdosering, lunch, diabete lunch, lunch slapen, slapen, slapen basisdosering, diabete, basisdosering diabete, slapen diabete
+Topic 4: krijgen remicade, remicade, krijgen, beloop, venofer, voltooien, tp, novomix, accepteren, krijgen venofer
+Topic 5: vocht, vocht vocht, vocht toediening, toediening soort, soort infuus, soort, toediening, infuus nacl, infuus, nacl
+Topic 6: osteoporose, denosumab, fractuur, injectie, dexa, calcium, nee, bisfosfonaat, wervelfractuur, gebruiken
+Topic 7: recidiveren, videocapsule bloed, focus videocapsule, gastroscopie focus, melaena angiodysplasie, recidiveren melena, gastroscopie, melena gastroscopie, recidiveren melaena, vg recidiveren
+Topic 8: wond, decursus, decursus podo, podo decursus, podo, leiden wond, leiden, nee, wonddebridement, zijde mtp
+Topic 9: eosinofiel, enteritis, eosinofiel enteritis, alopecia, prednisolon, malabsorptie, totalis, alopecia totalis, tongatrofie, smaakverlie
+Topic 10: transferrin, overig actie, actie, hb, overig, ijzer, ferritine, verz, verz transferrin, mcv
+Topic 11: diëtetiek, sn, dieethalv, evaluatie, melk, diëtetiek evaluatie, rijst, consult diëtetiek, koffie, fruit
+Topic 12: trauma radiologie, bespreeklijst, bespreeklijst trauma, radiologie seh, seh bespreeklijst, radiologie, trauma, seh, radiologeibespreking vd, radiologeibespreking
+Topic 13: zak, zak lasix, lasix oraal, zak accepteren, oraal zak, accepteren zak, lasix, laat oraal, accepteren, oraal
+Topic 14: sepsis arts, arts sepsis, sepsis, arts, trail, phantasi trail, phantasi, arts phantasi, trail sepsis, trail nee
+Topic 15: peggy, innen peggy, innen, controle innen, controle, mary controle, peggy controle, mary, peggy tp, lab innen
+Topic 16: hospice, abstinerend, rec rectaal, cryptogeen, hypertensie cryptogeen, bloedverlie portaal, cryptogeen leverlijen, leverlijen, portaal hypertensie, portaal
+Topic 17: sepsis, volgen symptoom, infectie spraak, sir twee, sepsis sir, symptoom aanwezig, twee volgen, spraak sepsis, aanwezig nieuw, vpk bestaan
+Topic 18: ileum, angiodysplasieen, crohn, diarree, calpro, calprotectine, humira, terminaal ileum, terminaal, mri
+
+Topic sizes: [6245, 321, 268, 249, 144, 95, 88, 81, 59, 55, 50, 32, 29, 17, 17, 16, 16, 16, 12]
+
+==================================================
+
+=== Results for 20 topics with 10 words (ngram_range=(1, 2)) ===
+Coherence Score: 0.6443
+
+Topics and their key words:
+Topic 0: oraal, stuk, anemie, onderzoek, oraal stuk, tablet, opname, waarvoor, goed, hb
+Topic 1: controle, aantal, aantal controle, decursus, uitvoeren controle, podo decursus, decursus podo, podo, controle controle, decursus uitvoeren
+Topic 2: lab, beloop verpleegkundig, beloop, verpleegkundig, diana, controle, opsturen, dagbehandeling, ct, tevoren
+Topic 3: basisdosering, basisdosering basisdosering, lunch, diabete lunch, lunch slapen, slapen, slapen basisdosering, diabete, basisdosering diabete, slapen diabete
+Topic 4: krijgen remicade, remicade, krijgen, beloop, venofer, voltooien, tp, novomix, accepteren, krijgen venofer
+Topic 5: vocht, vocht vocht, vocht toediening, toediening soort, soort infuus, soort, toediening, infuus nacl, infuus, nacl
+Topic 6: osteoporose, denosumab, fractuur, injectie, dexa, calcium, nee, bisfosfonaat, wervelfractuur, gebruiken
+Topic 7: recidiveren, videocapsule bloed, focus videocapsule, gastroscopie focus, melaena angiodysplasie, recidiveren melena, gastroscopie, melena gastroscopie, recidiveren melaena, vg recidiveren
+Topic 8: wond, decursus, decursus podo, podo decursus, podo, leiden wond, leiden, nee, wonddebridement, zijde mtp
+Topic 9: eosinofiel, enteritis, eosinofiel enteritis, alopecia, prednisolon, malabsorptie, totalis, alopecia totalis, tongatrofie, smaakverlie
+Topic 10: transferrin, overig actie, actie, hb, overig, ijzer, ferritine, verz, verz transferrin, mcv
+Topic 11: diëtetiek, sn, dieethalv, evaluatie, melk, diëtetiek evaluatie, rijst, consult diëtetiek, koffie, fruit
+Topic 12: trauma radiologie, bespreeklijst, bespreeklijst trauma, radiologie seh, seh bespreeklijst, radiologie, trauma, seh, radiologeibespreking vd, radiologeibespreking
+Topic 13: zak, zak lasix, lasix oraal, zak accepteren, oraal zak, accepteren zak, lasix, laat oraal, accepteren, oraal
+Topic 14: sepsis arts, arts sepsis, sepsis, arts, trail, phantasi trail, phantasi, arts phantasi, trail sepsis, trail nee
+Topic 15: peggy, innen peggy, innen, controle innen, controle, mary controle, peggy controle, mary, peggy tp, lab innen
+Topic 16: hospice, abstinerend, rec rectaal, cryptogeen, hypertensie cryptogeen, bloedverlie portaal, cryptogeen leverlijen, leverlijen, portaal hypertensie, portaal
+Topic 17: sepsis, volgen symptoom, infectie spraak, sir twee, sepsis sir, symptoom aanwezig, twee volgen, spraak sepsis, aanwezig nieuw, vpk bestaan
+Topic 18: ileum, angiodysplasieen, crohn, diarree, calpro, calprotectine, humira, terminaal ileum, terminaal, mri
+
+Topic sizes: [6245, 321, 268, 249, 144, 95, 88, 81, 59, 55, 50, 32, 29, 17, 17, 16, 16, 16, 12]
+
+==================================================
+
+=== Results for 30 topics with 5 words (ngram_range=(1, 2)) ===
+Coherence Score: 0.7449
+
+Topics and their key words:
+Topic 0: oraal, stuk, oraal stuk, tablet, anemie, onderzoek, hb, opname, goed, tablet oraal
+Topic 1: diabete, diabetisch, diabete mellitus, mellitus, voet, type, mellitus type, insuline, retinopathie, laat
+Topic 2: obinutuzumab, cll, anemie, progressie, volgen, copd, stadium, progressie cll, ii, venetoclax
+Topic 3: controle, aantal, aantal controle, decursus, uitvoeren controle, podo decursus, decursus podo, podo, controle controle, decursus uitvoeren
+Topic 4: basisdosering, basisdosering basisdosering, lunch, diabete lunch, lunch slapen, slapen, slapen basisdosering, basisdosering diabete, diabete, slapen diabete
+Topic 5: lab, diana, tevoren, opsturen, tevoren lab, diana lab, urine, labbon, lab diana, oz
+Topic 6: krijgen remicade, remicade, krijgen, beloop, venofer, voltooien, tp, novomix, krijgen venofer, remicade iv
+Topic 7: hyperparathyreoïdie, intern, intern geneeskun, geneeskun, secundair hyperparathyreoïdie, opname intern, secundair, niertransplantatie, opname, hypertensie
+Topic 8: beloop verpleegkundig, verpleegkundig, beloop, ct, meenemen, ctbuik, werkdag, dagbehandeling, controle, prikken
+Topic 9: oog, extracaps phaco, extracaps, phaco lens, lens, phaco, cataractoperatie extracaps, cataractoperatie, impl, lens impl
+Topic 10: dermatomyositis, waarvoor, tacrolimus, duodenumcarcinoom, metastaseren duodenumcarcinoom, hepatogeen, wd, hepatogeen metastaseren, metastaseren, waarvoor tacrolimus
+Topic 11: vocht, vocht vocht, vocht toediening, toediening soort, soort infuus, soort, toediening, infuus nacl, infuus, nacl
+Topic 12: osteoporose, denosumab, fractuur, injectie, dexa, calcium, wervelfractuur, bisfosfonaat, nee, lichaamsbeweging
+Topic 13: recidiveren, videocapsule bloed, focus videocapsule, gastroscopie focus, recidiveren melena, melaena angiodysplasie, recidiveren melaena, melena gastroscopie, vg recidiveren, bloed proximaal
+Topic 14: transferrin, overig actie, actie, hb, ijzer, overig, ferritine, verz, verz transferrin, mcv
+Topic 15: decursus, decursus podo, podo decursus, podo, wonddebridement, wonddebridement uitvoeren, uitvoeren, wond, tcc, zijde mtp
+Topic 16: eosinofiel, enteritis, eosinofiel enteritis, alopecia, prednisolon, malabsorptie, alopecia totalis, totalis, smaakverlie, tongatrofie
+Topic 17: diëtetiek, sn, dieethalv, evaluatie, melk, diëtetiek evaluatie, rijst, consult diëtetiek, koffie, fruit
+Topic 18: trauma radiologie, bespreeklijst, bespreeklijst trauma, radiologie seh, seh bespreeklijst, radiologie, trauma, seh, radiologeibespreking vd, radiologeibespreking
+Topic 19: echo, rontg echo, rontg, abdemen, echo toelichting, toelichting, afronding onderzoek, afronding, controle, controle rontg
+Topic 20: eliane, controle eliane, eliane controle, eliane internist, controle, tp, internist, internist controle, eliane lab, tp eliane
+Topic 21: sepsis arts, arts sepsis, sepsis, arts, trail, phantasi trail, phantasi, arts phantasi, trail sepsis, trail nee
+Topic 22: zak, zak lasix, lasix oraal, zak accepteren, oraal zak, accepteren zak, lasix, laat oraal, accepteren, oraal intake
+Topic 23: peggy, innen peggy, innen, controle innen, mary controle, peggy controle, controle, mary, peggy tp, lab innen
+Topic 24: sepsis, volgen symptoom, sepsis sir, infectie spraak, symptoom aanwezig, twee volgen, spraak sepsis, sir twee, aanwezig nieuw, vpk bestaan
+Topic 25: hospice, abstinerend, rec rectaal, cryptogeen, hypertensie cryptogeen, bloedverlie portaal, cryptogeen leverlijen, leverlijen, portaal hypertensie, portaal
+Topic 26: wond, leiden wond, leiden, nee, soort wond, diepte wond, kwaliteitsindicator diabetisch, voetwond soort, wond amputatie, wond classificatie
+Topic 27: ileum, angiodysplasieen, crohn, diarree, calpro, calprotectine, humira, terminaal ileum, terminaal, mri
+Topic 28: bifosfonaan, bifosfonaan maligniteit, periodiek, maligniteit anemie, gastroscopie candida, periodiek braken, candida, odinofagia, maligniteit, infectie uitgesloten
+
+Topic sizes: [4884, 580, 443, 302, 249, 159, 144, 132, 109, 109, 97, 95, 88, 56, 50, 44, 44, 32, 29, 25, 19, 17, 17, 16, 16, 16, 15, 12, 11]
+
+==================================================
+
+=== Results for 30 topics with 10 words (ngram_range=(1, 2)) ===
+Coherence Score: 0.6379
+
+Topics and their key words:
+Topic 0: oraal, stuk, oraal stuk, tablet, anemie, onderzoek, hb, opname, goed, tablet oraal
+Topic 1: diabete, diabetisch, diabete mellitus, mellitus, voet, type, mellitus type, insuline, retinopathie, laat
+Topic 2: obinutuzumab, cll, anemie, progressie, volgen, copd, stadium, progressie cll, ii, venetoclax
+Topic 3: controle, aantal, aantal controle, decursus, uitvoeren controle, podo decursus, decursus podo, podo, controle controle, decursus uitvoeren
+Topic 4: basisdosering, basisdosering basisdosering, lunch, diabete lunch, lunch slapen, slapen, slapen basisdosering, basisdosering diabete, diabete, slapen diabete
+Topic 5: lab, diana, tevoren, opsturen, tevoren lab, diana lab, urine, labbon, lab diana, oz
+Topic 6: krijgen remicade, remicade, krijgen, beloop, venofer, voltooien, tp, novomix, krijgen venofer, remicade iv
+Topic 7: hyperparathyreoïdie, intern, intern geneeskun, geneeskun, secundair hyperparathyreoïdie, opname intern, secundair, niertransplantatie, opname, hypertensie
+Topic 8: beloop verpleegkundig, verpleegkundig, beloop, ct, meenemen, ctbuik, werkdag, dagbehandeling, controle, prikken
+Topic 9: oog, extracaps phaco, extracaps, phaco lens, lens, phaco, cataractoperatie extracaps, cataractoperatie, impl, lens impl
+Topic 10: dermatomyositis, waarvoor, tacrolimus, duodenumcarcinoom, metastaseren duodenumcarcinoom, hepatogeen, wd, hepatogeen metastaseren, metastaseren, waarvoor tacrolimus
+Topic 11: vocht, vocht vocht, vocht toediening, toediening soort, soort infuus, soort, toediening, infuus nacl, infuus, nacl
+Topic 12: osteoporose, denosumab, fractuur, injectie, dexa, calcium, wervelfractuur, bisfosfonaat, nee, lichaamsbeweging
+Topic 13: recidiveren, videocapsule bloed, focus videocapsule, gastroscopie focus, recidiveren melena, melaena angiodysplasie, recidiveren melaena, melena gastroscopie, vg recidiveren, bloed proximaal
+Topic 14: transferrin, overig actie, actie, hb, ijzer, overig, ferritine, verz, verz transferrin, mcv
+Topic 15: decursus, decursus podo, podo decursus, podo, wonddebridement, wonddebridement uitvoeren, uitvoeren, wond, tcc, zijde mtp
+Topic 16: eosinofiel, enteritis, eosinofiel enteritis, alopecia, prednisolon, malabsorptie, alopecia totalis, totalis, smaakverlie, tongatrofie
+Topic 17: diëtetiek, sn, dieethalv, evaluatie, melk, diëtetiek evaluatie, rijst, consult diëtetiek, koffie, fruit
+Topic 18: trauma radiologie, bespreeklijst, bespreeklijst trauma, radiologie seh, seh bespreeklijst, radiologie, trauma, seh, radiologeibespreking vd, radiologeibespreking
+Topic 19: echo, rontg echo, rontg, abdemen, echo toelichting, toelichting, afronding onderzoek, afronding, controle, controle rontg
+Topic 20: eliane, controle eliane, eliane controle, eliane internist, controle, tp, internist, internist controle, eliane lab, tp eliane
+Topic 21: sepsis arts, arts sepsis, sepsis, arts, trail, phantasi trail, phantasi, arts phantasi, trail sepsis, trail nee
+Topic 22: zak, zak lasix, lasix oraal, zak accepteren, oraal zak, accepteren zak, lasix, laat oraal, accepteren, oraal intake
+Topic 23: peggy, innen peggy, innen, controle innen, mary controle, peggy controle, controle, mary, peggy tp, lab innen
+Topic 24: sepsis, volgen symptoom, sepsis sir, infectie spraak, symptoom aanwezig, twee volgen, spraak sepsis, sir twee, aanwezig nieuw, vpk bestaan
+Topic 25: hospice, abstinerend, rec rectaal, cryptogeen, hypertensie cryptogeen, bloedverlie portaal, cryptogeen leverlijen, leverlijen, portaal hypertensie, portaal
+Topic 26: wond, leiden wond, leiden, nee, soort wond, diepte wond, kwaliteitsindicator diabetisch, voetwond soort, wond amputatie, wond classificatie
+Topic 27: ileum, angiodysplasieen, crohn, diarree, calpro, calprotectine, humira, terminaal ileum, terminaal, mri
+Topic 28: bifosfonaan, bifosfonaan maligniteit, periodiek, maligniteit anemie, gastroscopie candida, periodiek braken, candida, odinofagia, maligniteit, infectie uitgesloten
+
+Topic sizes: [4884, 580, 443, 302, 249, 159, 144, 132, 109, 109, 97, 95, 88, 56, 50, 44, 44, 32, 29, 25, 19, 17, 17, 16, 16, 16, 15, 12, 11]
+
+==================================================
